@@ -1,2 +1,2 @@
 # DeepLearningSpecialization-Coursera
-Repo of files from cousera DLS
+Repo of files from cousera DLS by deeplearning.ai
